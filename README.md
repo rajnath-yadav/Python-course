@@ -1,4 +1,4 @@
-## An introductory and intermediate course on Python  
+## An introductory and intermediate course on Python by Rajnath yadav
 
 ### Topics  
 
